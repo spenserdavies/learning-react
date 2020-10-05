@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import Loader from "../Components/Loader";
 import ProductCard from "../Components/ProductCard";
 import { useAxiosGet } from "../Hooks/HttpRequests";
